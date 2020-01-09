@@ -1,0 +1,26 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=EF:1B:74:81:F2:43:24:6E:82:7F:69:45:0B:CF:39:5B:85:49:AB:FA%3Bcom.sherlocked.uberclone
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    EF:1B:74:81:F2:43:24:6E:82:7F:69:45:0B:CF:39:5B:85:49:AB:FA
+
+    SHA-1 certificate fingerprint:
+    EF:1B:74:81:F2:43:24:6E:82:7F:69:45:0B:CF:39:5B:85:49:AB:FA
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA_fENCm2AK4wNq6PrQpvyreTjmEFVoH10</string>
+
+</resources>
+
